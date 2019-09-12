@@ -1,8 +1,10 @@
 blog_title: "xmonader weblog"
 blog_description: "let there be posts"
+blog_logo: images/blog.jpg
 author_name: "ahmed"
 author_email: "ahmed@there.com"
-author_image_filename: "author.jpg"
+author_image_filename: "images/author.jpg"
 posts_dir: "posts"
+images_dir: "images"
 github_username: "xmonader"
 posts_per_page: 5
