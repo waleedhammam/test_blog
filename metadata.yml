@@ -5,6 +5,7 @@ author_name: "ahmed"
 author_email: "ahmed@there.com"
 author_image_filename: "images/author.jpg"
 posts_dir: "posts"
+pages_dir: "pages"
 images_dir: "images"
 github_username: "xmonader"
 posts_per_page: 5
