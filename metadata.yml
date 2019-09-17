@@ -12,15 +12,15 @@ posts_per_page: 5
 
 sidebar_links:
   - title: google
-    link: google.com
+    link: https://google.com
   - title: yahoo
-    link: yahoo.com
+    link: https://yahoo.com
 
 sidebar_social_links:
   - title: facebook
-    link: facebook.com/abc
+    link: https://facebook.com/abc
   - title: github
-    link: github.com/abc
+    link: https://github.com/abc
 
 nav:
   - title: about
@@ -28,4 +28,4 @@ nav:
   - title: contact us
     page: pages/contactus.md
   - title: foundation link
-    link: threefold.io
+    link: https://threefold.io
