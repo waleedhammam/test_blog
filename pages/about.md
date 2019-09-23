@@ -4,7 +4,9 @@ title: About
 ---
 
 # About
-About us page
+
+
+This is the about page
 
 - sample
 - one

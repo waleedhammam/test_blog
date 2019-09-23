@@ -5,4 +5,6 @@ title: About
 
 # Contact us
 
-Contact us at that@there.com
+This is the contact us page 
+
+we are reachable at that@there.com

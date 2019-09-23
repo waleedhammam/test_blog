@@ -1,9 +1,9 @@
 blog_title: "xmonader weblog"
 blog_description: "let there be posts"
-blog_logo: images/blog.jpg
+blog_logo: blog.jpg
 author_name: "ahmed"
 author_email: "ahmed@there.com"
-author_image_filename: "images/author.jpg"
+author_image_filename: "author.jpg"
 posts_dir: "posts"
 pages_dir: "pages"
 images_dir: "images"
