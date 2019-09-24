@@ -22,13 +22,13 @@ sidebar_social_links:
     class: fa fa-facebook
   - title: github
     link: https://github.com/abc
-    class: fa fa-github
+    faclass: fa fa-github
   - title: instagram
     link: https://instagram.com
-    class: fa fa-instagram
+    faclass: fa fa-instagram
   - title: twitter
     link: https://instagram.com
-    class: fa fa-twitter
+    faclass: fa fa-twitter
 
 nav_links:
   - title: about
