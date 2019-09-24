@@ -1,9 +1,9 @@
 blog_title: "xmonader weblog"
 blog_description: "let there be posts"
-blog_logo: blog.jpg
+blog_logo: logo.svg"
 author_name: "ahmed"
 author_email: "ahmed@there.com"
-author_image_filename: "author.jpg"
+author_image_filename: "me.jpg"
 posts_dir: "posts"
 pages_dir: "pages"
 images_dir: "images"
@@ -19,13 +19,21 @@ sidebar_links:
 sidebar_social_links:
   - title: facebook
     link: https://facebook.com/abc
+    class: fa fa-facebook
   - title: github
     link: https://github.com/abc
+    class: fa fa-github
+  - title: instagram
+    link: https://instagram.com
+    class: fa fa-instagram
+  - title: twitter
+    link: https://instagram.com
+    class: fa fa-twitter
 
 nav_links:
   - title: about
-    page: pages/about.md
+    page: about.md
   - title: contact us
-    page: pages/contactus.md
+    page: contactus.md
   - title: foundation link
     link: https://threefold.io
