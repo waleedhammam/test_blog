@@ -19,16 +19,16 @@ sidebar_links:
 sidebar_social_links:
   - title: facebook
     link: https://facebook.com/abc
-    class: fa fa-facebook
+    class: fab fa-facebook-f
   - title: github
     link: https://github.com/abc
-    faclass: fa fa-github
+    faclass: fab fa-github
   - title: instagram
     link: https://instagram.com
-    faclass: fa fa-instagram
+    faclass: fab fa-instagram
   - title: twitter
     link: https://instagram.com
-    faclass: fa fa-twitter
+    faclass: fab fa-twitter
 
 nav_links:
   - title: about
