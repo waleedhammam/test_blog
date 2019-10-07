@@ -4,6 +4,7 @@ author: Nim Team
 excerpt: "This is your chance to get to work with one of the leading experts in compiler
 development, meta programming and language design."
 tags: nim, python, markdown
+post_image: "https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Lisa_Simpson.png/220px-Lisa_Simpson.png"
 ---
 
 ## Become a Nim core developer

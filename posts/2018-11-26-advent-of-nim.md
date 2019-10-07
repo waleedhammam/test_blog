@@ -1,6 +1,8 @@
 ---
 title: Advent of Nim
 author: The Nim Team
+post_image: https://library.scalyr.com/2019/09/12083102/Python-Scalyr-Colors-with-Log.png
+author_image: https://wiki.haskell.org/wikiupload/a/a4/Haskell_h_jdr.png
 tags: nim, python, markdown
 ---
 
