@@ -9,6 +9,7 @@ pages_dir: "pages"
 images_dir: "assets/images"
 github_username: "xmonader"
 posts_per_page: 5
+allow_disqus: true
 
 sidebar_links:
   - title: google
