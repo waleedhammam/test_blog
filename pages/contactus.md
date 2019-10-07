@@ -1,6 +1,6 @@
 ---
 tags: markdown
-title: About    
+title: Contact
 ---
 
 # Contact us
