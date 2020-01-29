@@ -3,7 +3,7 @@ layout: post
 title:  "Nim: The good, the OK, and the hard"
 date:   2018-12-06 23:34:30 +0200
 categories: nim
-description: "Nim is a systems and applications programming language. Statically typed and compiled, it provides unparalleled performance in an elegant package."
+description: Nim is a systems and applications programming language. Statically typed and compiled, it provides unparalleled performance in an elegant package.
 ---
 
 ## Background

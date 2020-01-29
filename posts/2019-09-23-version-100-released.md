@@ -3,8 +3,8 @@ title: "Version 1.0 released"
 author: The Nim Team
 excerpt: "The Nim Team is very proud and happy to announce the much-anticipated version 1.0 of the language."
 tags: nim, python, markdown
-description: "Today is the day. The Nim Team is very proud
-and happy to announce the much-anticipated version 1.0 of the language."
+description: Today is the day. The Nim Team is very proud
+and happy to announce the much-anticipated version 1.0 of the language.
 ---
 
 

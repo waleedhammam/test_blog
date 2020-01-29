@@ -2,9 +2,9 @@
 title: "Version 0.19.0 released"
 author: The Nim Team
 tags: nim, python
-description: "The Nim team is happy to announce that the latest release of Nim,
+description: The Nim team is happy to announce that the latest release of Nim,
 version 0.19.0, is now available. Nim is a systems programming language that
-focuses on performance, portability and expressiveness."
+focuses on performance, portability and expressiveness.
 ---
 
 The Nim team is happy to announce that the latest release of Nim,

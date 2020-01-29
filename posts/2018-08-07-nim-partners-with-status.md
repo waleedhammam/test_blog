@@ -3,7 +3,7 @@ title: "Nim partners with Status.im"
 author: Nim Team
 excerpt: "We're incredibly excited to announce the new partnership between Status and Nim."
 tags: nim, python
-description: "We're incredibly excited to announce the new partnership between Status and Nim."
+description: We're incredibly excited to announce the new partnership between Status and Nim
 ---
 
 <a href="{{ site.baseurl }}/assets/news/images/status/Status-Nim-partnership.png">
