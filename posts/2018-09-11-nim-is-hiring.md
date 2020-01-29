@@ -5,6 +5,9 @@ excerpt: "This is your chance to get to work with one of the leading experts in 
 development, meta programming and language design."
 tags: nim, python, markdown
 post_image: "https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Lisa_Simpson.png/220px-Lisa_Simpson.png"
+description: "Nim is proving to be an increasingly reliable workhorse for every day
+programming jobs since you can productively use it both client-side and
+server-side"
 ---
 
 ## Become a Nim core developer

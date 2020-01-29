@@ -3,6 +3,7 @@ layout: post
 title:  "Solving murder with Prolog"
 date:   2018-12-22 01:17:30 +0200
 categories: prolog
+description: "In our company we usually have a fun quiz every sunday and this was one of them"
 ---
 
 In our company we usually have a fun quiz every sunday and this was one of them

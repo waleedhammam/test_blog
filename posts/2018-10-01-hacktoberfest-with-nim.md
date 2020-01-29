@@ -2,6 +2,8 @@
 title: Hacktoberfest with Nim
 author: The Nim Team
 tags: nim, python
+description: "To win a T-shirt, you must sign up on the and make five pull requests to any repo on Github by the end of October.
+Even if you don't manage to make five pull requests, you win Hacktoberfest stickers."
 ---
 
 [Hacktoberfest](https://hacktoberfest.digitalocean.com/) is an annual event happening in October which celebrates open source software and encourages meaningful contributions to the open source ecosystem.

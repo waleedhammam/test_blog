@@ -2,6 +2,8 @@
 title: "Launching the 2018 Nim Community Survey"
 author: Dominik Picheta
 tags: nim, python
+description: "We are proud to announce the launch of the official. Your feedback will help the Nim project understand its strengths and
+weaknesses, and to determine development priorities for the future."
 ---
 
 We are proud to announce the launch of the official
